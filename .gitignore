@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Scraped data files (not distributed with the repo)
+courses_all_p*.json
